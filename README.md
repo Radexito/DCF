@@ -155,9 +155,6 @@ Additionally, the plugin includes:
 3.  Proportional Rewards: As the contract’s balance increases, karma rewards adjust proportionally to incentivize long-term participation.
     
 
-1.    
-    
-
 # Roadmap
 
 ## Phase 1: Research and Initial Design
